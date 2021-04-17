@@ -1,0 +1,12 @@
+/*p {
+  color: green;
+}*/
+
+.jumbotron {
+    background-color: rgb(245, 185, 193) !important; 
+} 
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
