@@ -18,3 +18,19 @@ font-family: 'Open Sans', sans-serif;
 .logoname {
 	font-family: 'Niconne', cursive !important;
 }
+
+.card-img-top {
+	transition: opacity 300ms ease-in; 
+}
+
+.card-img-top:hover {
+	opacity: 80%;
+}
+
+.image_title {
+
+}
+
+.image_title:hover {
+  color: rgb(251, 221, 112);
+}
